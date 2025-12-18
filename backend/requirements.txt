@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-deepseek
+langchain-text-splitters
+faiss-cpu
+pydantic
+langserve
+matplotlib
+pytz
+sse_starlette
