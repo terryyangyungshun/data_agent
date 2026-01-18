@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Demo 影片展示</b><br>
-  <video src="demo.mp4" controls width="600" style="max-width:100%"></video>
+  <video src="./assets/demo.mp4" controls width="600" style="max-width:100%"></video>
 </p>
 
 一個基於 FastAPI 與 LangChain 1.0 的互動式資料分析後端，結合前端 React/Vite，支援 CSV 上傳、資料摘要、相關性分析、Python 程式碼與繪圖執行，並可與 DeepSeek 3.2 AI 進行自然語言互動。
