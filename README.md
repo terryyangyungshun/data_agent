@@ -1,8 +1,6 @@
 # DeepSeek Data Agent
 
-<div align="center">
-<img src="assets/ezgif-83228f91b45d3314.gif" width="400" alt="data-agent-demo"/> 
-</div>
+https://github.com/user-attachments/assets/aeece390-4f76-4f6e-9f4b-21da27aed59f
 
 一個基於 FastAPI 與 LangChain 1.0 的互動式資料分析後端，結合前端 React/Vite，支援 CSV 上傳、資料摘要、相關性分析、Python 程式碼與繪圖執行，並可與 DeepSeek 3.2 AI 進行自然語言互動。
 
